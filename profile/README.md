@@ -22,4 +22,6 @@ Public repository for everyone in the team
 - other rules (especially for onboarding)
 - wiki (for onboarding)
 - labels
-- Create 2 projects (App v1.0, AI v1.0)
+- Create multiple milestones (App v1.0 vs AI v1.0)
+- Create 1 project for each sprint (include both app and AI development tasks) - at the end of each sprint, discuss what we want to implement from the backlog in the next sprint
+- Create 1 project backlog (all features that we want to implement)
